@@ -1,0 +1,15 @@
+{
+  "name": "jsonpformat",
+  "version": "1.0.0",
+  "description": "A tool format json or string to jsonp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsonp",
+    "format"
+  ],
+  "author": "kenyeecheung",
+  "license": "ISC"
+}
